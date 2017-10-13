@@ -22,13 +22,7 @@
 
 ## 6）界面设计：
 * Piazza模块较少，留白较多，简洁明了。
-
-![piazza icon](D:\three\web\homework\piazza.png)
-
 * 大夏学堂功能块较多，内容较杂，但结构还是清晰的。
-
-![大夏学堂 icon](D:\three\web\homework\daxia.png)
-
 
 ## 7）交互设计：
 * 可能是网速的原因Piazza反应时间较慢，到达日程表界面不太好返回首页。
